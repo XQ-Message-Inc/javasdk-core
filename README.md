@@ -59,8 +59,8 @@ Once a key has been obtained from XQ Message it must be inserted it into these f
 
 _The config properties for the API keys are called_
 
-1. com.xq-msg.sdk.v2.xq-api-key
-2. com.xq-msg.sdk.v2.dashboard-api-key
+1. com.xqmsg.sdk.v2.xq-api-key
+2. com.xqmsg.sdk.v2.dashboard-api-key
 
 ### JUnit Tests
 
